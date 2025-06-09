@@ -1,0 +1,36 @@
+{
+  "title": "Morgan Navel - Portfolio",
+  "profile": {
+    "headline": "Together, let's develop innovative solutions",
+    "intro1": "I am <strong>Morgan</strong>. <strong>Passionate and curious</strong> about software engineering, I strive to design <strong>well-architected</strong>, <strong>scalable</strong>, and <strong>maintainable</strong> solutions.",
+    "intro2": "<strong>My goal</strong> is to create truly useful applications designed with the <strong>real needs of users</strong> in mind, and built to be <strong>modifiable</strong> and <strong>adaptable over time</strong>.",
+    "buttonProjects": "🚀 See my projects"
+  },
+  "projects": {
+    "dolobox": {
+      "title": "Student Project - Dolobox",
+      "desc1": "This project was carried out as part of my training, in collaboration with the ERIOS team at Montpellier University Hospital. It is a prototype for connected pain monitoring of patients.",
+      "desc2": "Led with my teammates <strong>Romain Gallerne</strong> and <strong>Richard Picole-Ollivier</strong>, this project was a rich experience both technically and personally.",
+      "desc3": "It showcases my skills in software development and research. A feasibility study was conducted to better understand technical needs, patient expectations (end users), and the hospital environment.",
+      "desc4": "We organized discussions with hospital nurses to gather concrete feedback from the field. This guided our solution design and technical choices.",
+      "desc5": "Alongside the physical device, we developed a web app to visualize data in real time.",
+      "buttonMore": "Learn more"
+    },
+    "dkapp": {
+      "title": "Danbee Korean",
+      "desc1": "This project was born from a simple request: to create an online learning platform for someone wanting to teach Korean. But behind this request was a much more personal journey, driven by my <strong>desire to go beyond mere technical execution</strong>.",
+      "desc2": "Rather than just following a specification, I <strong>sought to understand the context, usages, and real expectations</strong>. I developed the web app in <strong>React</strong> with <strong>Next.js</strong> and a <strong>Node.js REST API with Express</strong>, but that's not what sets me apart.",
+      "desc3": "This project pushed me to <strong>explore</strong>, <strong>experiment</strong>, and <strong>learn differently</strong>. For example, I turned an old PC into a personal Debian server, which wasn't planned but became central to my ecosystem.",
+      "desc4": "I love <strong>building my own tools</strong>, <strong>understanding</strong> what's behind common solutions, and taking unconventional paths. More than a technical project, Danbee Korean allowed me to <strong>cultivate my uniqueness</strong>: a handcrafted development approach where <strong>curiosity, autonomy, and long-term vision</strong> have their place.",
+      "buttonMore": "Learn more"
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact me",
+      "text": "A project, an idea, or just want to chat?"
+    },
+    "credits": "Image designed by Freepik",
+    "copyright": "©{{year}} Morgan Navel. All rights reserved."
+  }
+}

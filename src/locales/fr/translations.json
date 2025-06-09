@@ -1,0 +1,36 @@
+{
+  "title": "Morgan Navel - Portfolio",
+  "profile": {
+    "headline": "Ensemble, développons des solutions innovantes",
+    "intro1": "Moi, c'est <strong>Morgan</strong>. <strong>Passionné et curieux</strong> par l'ingénierie logicielle, j'ai à cœur de concevoir des solutions <strong>bien architecturées</strong>, <strong>évolutives</strong> et <strong>maintenables</strong>.",
+    "intro2": "<strong>Mon objectif</strong> : créer des applications réellement utiles, pensées pour les <strong>besoins concrets des utilisateurs</strong>, et conçues pour être <strong>modifiables</strong> et <strong>adaptables dans le temps</strong>.",
+    "buttonProjects": "🚀 Voir mes projets"
+  },
+  "projects": {
+    "dolobox": {
+      "title": "Projet étudiant - Dolobox",
+      "desc1": "Ce projet a été réalisé dans le cadre de ma formation, en collaboration avec l'équipe ERIOS du CHU de Montpellier. Il s'agit d'un prototype de surveillance connectée de la douleur des patients.",
+      "desc2": "Conduit avec mes camarades <strong>Romain Gallerne</strong> et <strong>Richard Picole-Ollivier</strong>, ce projet a représenté une expérience riche, tant sur le plan technique qu'humain.",
+      "desc3": "Il constitue une vitrine de mes compétences en développement logiciel et en recherche. Une étude de faisabilité a été menée afin de mieux comprendre les besoins techniques, les attentes des patients (utilisateurs finaux), ainsi que l'environnement hospitalier dans lequel ils évoluent.",
+      "desc4": "Pour cela, nous avons organisé un temps d'échange avec les infirmières de l'hôpital, ce qui nous a permis de recueillir des retours concrets du terrain. Cette démarche a guidé la conception de notre solution et orienté nos choix techniques.",
+      "desc5": "En complément du dispositif physique, nous avons développé une application web permettant de visualiser les données collectées en temps réel.",
+      "buttonMore": "En savoir plus"
+    },
+    "dkapp": {
+      "title": "Danbee Korean",
+      "desc1": "Ce projet est né d'une demande simple : créer une plateforme de cours en ligne pour une connaissance souhaitant enseigner le coréen. Mais derrière cette demande s'est construite <strong>une aventure bien plus personnelle</strong>, portée par <strong>ma volonté d'aller au-delà de la simple exécution technique</strong>.",
+      "desc2": "Plutôt que de suivre uniquement un cahier des charges, <strong>j'ai cherché à comprendre le contexte, les usages, les attentes réelles</strong>. J'ai développé l'application web en <strong>React</strong> avec <strong>Next.js</strong>, et une <strong>API REST en Node.js avec Express</strong>, mais ce n'est pas ce qui me distingue.",
+      "desc3": "Ce projet m'a surtout poussé à <strong>explorer</strong>, <strong>expérimenter</strong>, <strong>apprendre autrement</strong>. Par exemple, <strong>j'ai transformé un vieux PC en un serveur Debian personnel</strong>. Ce n'était pas prévu au départ, mais c'est devenu <strong>un outil central de mon écosystème</strong> : hébergement de sites, gestion de projets, serveurs Git internes…",
+      "desc4": "J'aime <strong>fabriquer mes propres outils</strong>, <strong>comprendre</strong> ce qui se cache derrière les solutions classiques, et sortir des sentiers battus. Plus qu'un projet technique, Danbee Korean m'a permis de <strong>cultiver ma singularité</strong> : une approche artisanale du développement, où <strong>la curiosité, l'autonomie et la vision long terme</strong> ont toute leur place.",
+      "buttonMore": "En savoir plus"
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contactez-moi",
+      "text": "Un projet, une idée, ou simplement envie d'échanger ?"
+    },
+    "credits": "Image conçue par Freepik",
+    "copyright": "©{{year}} Morgan Navel. Tous droits réservés."
+  }
+}
