@@ -11,12 +11,23 @@ const resources = {
   ko: { translation: translationKO },
 };
 
-i18n.use(initReactI18next).init({
-  resources,
-  fallbackLng: "en",
-  interpolation: {
-    escapeValue: false,
-  },
-});
+i18n
+  .use(initReactI18next)
+  .init({
+    resources,
+    fallbackLng: "en",
+    supportedLngs: ["en", "fr", "ko"],
+    detection: {
+      order: ["localStorage", "navigator", "htmlTag"],
+      caches: ["localStorage"],
+    },
+    interpolation: {
+      escapeValue: false,
+    },
+  })
+  .then((t) => {
+    let userLang = navigator.language || navigator.userLanguage;
+    i18n.changeLanguage(userLang);
+  });
 
 export default i18n;

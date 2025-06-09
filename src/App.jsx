@@ -41,6 +41,7 @@ import {
 } from "react-icons/si";
 
 import { PiFileC } from "react-icons/pi";
+import { LanguageSwitcher } from "./LanguageSwitcher";
 
 const SkillCard = ({ title, children }) => (
   <div className='skill-card'>
@@ -66,6 +67,7 @@ function App() {
 
   return (
     <div className='App ' onScroll={handleScroll}>
+      <LanguageSwitcher />
       {showScrollIcon && (
         <span
           className={`scroll-down-indicator ${showScrollIcon ? "" : "hide"}`}
