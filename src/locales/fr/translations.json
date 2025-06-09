@@ -4,7 +4,17 @@
     "headline": "Ensemble, développons des solutions innovantes",
     "intro1": "Moi, c'est <strong>Morgan</strong>. <strong>Passionné et curieux</strong> par l'ingénierie logicielle, j'ai à cœur de concevoir des solutions <strong>bien architecturées</strong>, <strong>évolutives</strong> et <strong>maintenables</strong>.",
     "intro2": "<strong>Mon objectif</strong> : créer des applications réellement utiles, pensées pour les <strong>besoins concrets des utilisateurs</strong>, et conçues pour être <strong>modifiables</strong> et <strong>adaptables dans le temps</strong>.",
+    "intro3": "Diplômé d'un <strong>Master en Génie Logiciel à l'Université de Montpellier</strong>, j'ai su maintenir un excellent niveau académique grâce à <strong>mon implication, ma rigueur et ma curiosité</strong>. Mes expériences professionnelles ont rapidement renforcé mes compétences techniques et nourri une approche <strong>concrète et pragmatique</strong> du métier.",
     "buttonProjects": "🚀 Voir mes projets"
+  },
+  "skills": {
+    "title": "🚀 Mes Compétences",
+    "lng": "Langages",
+    "webdev": "Développement Web",
+    "mobiledev": "Développement Mobile",
+    "bdd": "Bases de Données",
+    "deploy": "Outils de Déploiement",
+    "tools": "Outils"
   },
   "projects": {
     "dolobox": {
@@ -14,7 +24,8 @@
       "desc3": "Il constitue une vitrine de mes compétences en développement logiciel et en recherche. Une étude de faisabilité a été menée afin de mieux comprendre les besoins techniques, les attentes des patients (utilisateurs finaux), ainsi que l'environnement hospitalier dans lequel ils évoluent.",
       "desc4": "Pour cela, nous avons organisé un temps d'échange avec les infirmières de l'hôpital, ce qui nous a permis de recueillir des retours concrets du terrain. Cette démarche a guidé la conception de notre solution et orienté nos choix techniques.",
       "desc5": "En complément du dispositif physique, nous avons développé une application web permettant de visualiser les données collectées en temps réel.",
-      "buttonMore": "En savoir plus"
+      "buttonMore": "En savoir plus",
+      "contactMe": "Me contacter"
     },
     "dkapp": {
       "title": "Danbee Korean",

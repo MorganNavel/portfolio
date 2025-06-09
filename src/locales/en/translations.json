@@ -4,7 +4,19 @@
     "headline": "Together, let's develop innovative solutions",
     "intro1": "I am <strong>Morgan</strong>. <strong>Passionate and curious</strong> about software engineering, I strive to design <strong>well-architected</strong>, <strong>scalable</strong>, and <strong>maintainable</strong> solutions.",
     "intro2": "<strong>My goal</strong> is to create truly useful applications designed with the <strong>real needs of users</strong> in mind, and built to be <strong>modifiable</strong> and <strong>adaptable over time</strong>.",
-    "buttonProjects": "🚀 See my projects"
+    "intro3": "With a <strong>Master's degree in Software Engineering from the University of Montpellier</strong>, I maintained a strong academic record thanks to <strong>my dedication, rigor, and curiosity</strong>. My early professional experiences quickly strengthened my technical skills and shaped a <strong>practical and hands-on</strong> approach to the profession.",
+    "buttonProjects": "🚀 See my projects",
+
+    "contactMe": "Contact me"
+  },
+  "skills": {
+    "title": "🚀 My Skills",
+    "lng": "Languages",
+    "webdev": "Web Development",
+    "mobiledev": "Mobile Development",
+    "bdd": "Databases",
+    "deploy": "Deployment Tools",
+    "tools": "Tools"
   },
   "projects": {
     "dolobox": {
