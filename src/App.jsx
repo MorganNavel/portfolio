@@ -181,7 +181,7 @@ function App() {
           </small>
           <p>
             <small>
-              ©{new Date().getFullYear()} Morgan Navel. Tous droits réservés.
+              {t("footer.copyright", { year: new Date().getFullYear() })}
             </small>
           </p>
         </div>
