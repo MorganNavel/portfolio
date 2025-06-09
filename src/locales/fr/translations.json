@@ -5,7 +5,8 @@
     "intro1": "Moi, c'est <strong>Morgan</strong>. <strong>Passionné et curieux</strong> par l'ingénierie logicielle, j'ai à cœur de concevoir des solutions <strong>bien architecturées</strong>, <strong>évolutives</strong> et <strong>maintenables</strong>.",
     "intro2": "<strong>Mon objectif</strong> : créer des applications réellement utiles, pensées pour les <strong>besoins concrets des utilisateurs</strong>, et conçues pour être <strong>modifiables</strong> et <strong>adaptables dans le temps</strong>.",
     "intro3": "Diplômé d'un <strong>Master en Génie Logiciel à l'Université de Montpellier</strong>, j'ai su maintenir un excellent niveau académique grâce à <strong>mon implication, ma rigueur et ma curiosité</strong>. Mes expériences professionnelles ont rapidement renforcé mes compétences techniques et nourri une approche <strong>concrète et pragmatique</strong> du métier.",
-    "buttonProjects": "🚀 Voir mes projets"
+    "buttonProjects": "🚀 Voir mes projets",
+    "contactMe": "Me contacter"
   },
   "skills": {
     "title": "🚀 Mes Compétences",
