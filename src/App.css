@@ -22,7 +22,7 @@ section {
   display: flex;
   align-items: center;
   padding: var(--spacing-lg);
-  width: 200px;
+  width: 250px;
   height: auto;
   border-radius: 50%;
   background-color: var(--card-bg);
